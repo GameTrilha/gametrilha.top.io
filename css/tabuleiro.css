@@ -1,0 +1,119 @@
+#tabuleiro{
+    width: 800px;
+    height: 500px;
+    background-color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    box-shadow: 5px 10px #888888;
+}
+
+#dado{
+    position: absolute;
+    margin: auto;
+    max-width: 200px;
+    top: 80px;
+    left: 40px;
+}
+
+.box{
+    width: 70px;
+    height: 70px;
+    position: absolute; /*Estudar*/
+    margin: auto; /*Estudar*/
+}
+#inicio{
+    bottom: 40px;
+    left: 60px;
+    position: absolute;
+    margin: auto;
+}
+#fim{
+    bottom: 60px;
+    left: 630px;
+    position: absolute;
+    margin: auto;
+}
+#box-1{
+    background-color: red;
+    bottom: 10px;
+    left: 120px;
+}
+#box-2{
+    background-color: blue;
+    bottom: 10px;
+    left: 190px;
+}
+#box-3{
+    background-color: yellow;
+    bottom: 10px;
+    left: 260px;
+}
+#box-4{
+    background-color: green;
+    bottom: 10px;
+    left: 330px;
+}
+#box-5{
+    background-color: purple;
+    bottom: 80px;
+    left: 330px;
+}
+#box-6{
+    background-color: yellowgreen;
+    bottom: 150px;
+    left: 330px;
+}
+#box-7{
+    background-color: orange;
+    bottom: 220px;
+    left: 330px;
+}
+#box-8{
+    background-color: orchid;
+    bottom: 290px;
+    left: 330px;
+}
+#box-9{
+    background-color: royalblue;
+    bottom: 360px;
+    left: 330px;
+}
+#box-10{
+    background-color: red;
+    bottom: 360px;
+    left: 400px;
+}
+#box-11{
+    background-color: goldenrod;
+    bottom: 360px;
+    left: 470px;
+}
+#box-12{
+    background-color: brown;
+    bottom: 360px;
+    left: 540px;
+}
+#box-13{
+    background-color: green;
+    bottom: 360px;
+    left: 610px;
+}
+#box-14{
+    background-color: aqua;
+    bottom: 290px;
+    left: 610px;
+}
+#box-15{
+    background-color: burlywood;
+    bottom: 220px;
+    left: 610px;
+}
+#box-16{
+    background-color: salmon;
+    bottom: 150px;
+    left: 610px;
+}
